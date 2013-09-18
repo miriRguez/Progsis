@@ -1,0 +1,8 @@
+primero clonas el repositorio 
+git add +url
+desde cabina git ingresar el repositorio
+git status para verificar los cambios hechos
+git add + la ruta/archivo a agregar
+entrar al git gui abrir el reposuitorio y hacer el commit
+desde cabina hacer push
+git push

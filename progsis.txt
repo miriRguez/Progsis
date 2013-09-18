@@ -1,0 +1,3 @@
+  rti  $15  ;comentarios
+  lda  5,x
+  ldu 85, #9
