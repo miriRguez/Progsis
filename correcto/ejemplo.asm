@@ -1,0 +1,1 @@
+begin ldaa #10 ; label begins in column 1
